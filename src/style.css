@@ -6,22 +6,21 @@ body {
 .box {
   width: 328px;
   margin: 20px 20px 40px;
+}
+
+.border {
   padding: 10px;
   border: 1px solid #e75551;
 }
 
-.blue_padding {
+.lower_block {
   background-color: #308dc0;
 }
 
-.yellow_padding {
+.middle_block {
   background-color: #ffa500;
-  padding: 10px;
-  border: 1px solid #e75551;
 }
 
 .text_block {
   background-color: #ddd;
-  padding: 10px;
-  border: 1px solid #e75551;
 }
